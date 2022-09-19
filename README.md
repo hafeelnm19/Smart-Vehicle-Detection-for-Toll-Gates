@@ -1,10 +1,9 @@
 
 # Smart Vehicle Detection for Toll-Gates
  
- <img src="https://user-images.githubusercontent.com/77114909/191062454-61c068c5-2204-41eb-a875-3db1d4c81eba.png" alt="Paris" class="center">
- 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/77114909/191062454-61c068c5-2204-41eb-a875-3db1d4c81eba.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77114909/191062454-61c068c5-2204-41eb-a875-3db1d4c81eba.png" />
+</p>
 
 ============================================================================================
 
