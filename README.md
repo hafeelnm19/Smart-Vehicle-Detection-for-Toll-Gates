@@ -64,8 +64,8 @@ The classification of the vehicles would be performed primarily focusing only on
 * Micro Controllers
 ## Visualization
 * Visualization of the data from the database using React
-![Screenshot 2022-09-19 113441](https://user-images.githubusercontent.com/77114909/190960119-a8efac91-87f2-4402-92f7-fb88a4adbc5e.jpg)
 
+![Screenshot 2022-09-19 212441](https://user-images.githubusercontent.com/77114909/191060384-34bd1299-b034-4346-a610-31185e7da523.jpg)
 
 ## Feedback
 * The Feedbacks from Project Evaluators
