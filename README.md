@@ -1,5 +1,5 @@
 
-# Project Title
+# Smart Vehicle Detection for Toll-Gates
  
 ![Vehicle-Reidentification-1024x728](https://user-images.githubusercontent.com/77114909/190964595-d81dd946-781d-46ea-a6dc-f1a63faa4b63.jpg)
 
