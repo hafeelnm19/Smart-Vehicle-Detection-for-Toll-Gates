@@ -80,17 +80,21 @@ This software uses the following open source packages:
 
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
 - [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+## Project Plan
+![Screenshot 2022-09-19 204420](https://user-images.githubusercontent.com/77114909/191054486-7ba7b810-9345-4220-a29f-4ff9f2c23303.jpg)
+
 ## Process
 ![Screenshot 2022-09-19 122416](https://user-images.githubusercontent.com/77114909/190963962-f4e19ca4-7dec-4b54-9f59-79ab4b68b864.jpg)
 ## Tools
 * Cameras
 * Micro Controllers
 ## Visualization
-
+* Visualization of the data from the database using React
 ![Screenshot 2022-09-19 113441](https://user-images.githubusercontent.com/77114909/190960119-a8efac91-87f2-4402-92f7-fb88a4adbc5e.jpg)
 
 
 ## Feedback
+* The Feedbacks from Project Evaluators
 | Identified Problems    | Solutions     | 
 | ---------------------- | ------------- | 
 | Different quality of image if different Cameras are used.| Use the same camera with the same type of white balance, same quality, same lens       | 
