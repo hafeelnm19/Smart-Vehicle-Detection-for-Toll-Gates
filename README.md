@@ -89,3 +89,11 @@ This software uses the following open source packages:
 
 ![Screenshot 2022-09-19 113441](https://user-images.githubusercontent.com/77114909/190960119-a8efac91-87f2-4402-92f7-fb88a4adbc5e.jpg)
 
+
+## Feedback
+| Identified Problems    | Solutions     | 
+| ---------------------- | ------------- | 
+| Different quality of image if different Cameras are used.| Use the same camera with the same type of white balance, same quality, same lens       | 
+| The entrance cameras detect at evening and exit cameras detect at night                  | Detection of vehicle considering the lightintensity of the surrounding
+| Difference in the speed of the vehicle at entrance and exit    | build speed barrier system at the video capturing point of both entrances    | 
+| Difficulty in obtaining datasets for all 5 or more <br> specifications like color, dimension, model, <br> vehicle type, defects, other unique <br> characteristics. Thus, difficulty in classification of the vehicles.    |Reduction of specifications. <br> Focus on the more important ones only      |
