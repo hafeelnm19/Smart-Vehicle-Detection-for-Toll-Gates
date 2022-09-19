@@ -1,10 +1,10 @@
 
 # Smart Vehicle Detection for Toll-Gates
  
-![Vehicle-Reidentification-1024x728](https://user-images.githubusercontent.com/77114909/190964595-d81dd946-781d-46ea-a6dc-f1a63faa4b63.jpg)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/77114909/191062454-61c068c5-2204-41eb-a875-3db1d4c81eba.png)
 
 
-============================================================================================
+===============================================================================================
 
 
 # Application Overview
