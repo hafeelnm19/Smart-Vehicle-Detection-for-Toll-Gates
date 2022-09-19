@@ -96,6 +96,7 @@ This software uses the following open source packages:
 
 ## Feedback
 * The Feedbacks from Project Evaluators
+
 | Identified Problems    | Solutions     | 
 | ---------------------- | ------------- | 
 | Different quality of image if different Cameras are used.| Use the same camera with the same type of white balance, same quality, same lens       | 
