@@ -52,6 +52,7 @@ The classification of the vehicles would be performed primarily focusing only on
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
 - [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 ## Project Plan
+* It should be noted that there may be unforeseen delays and changes to the original plan, making the following plan rather optimistic.
 ![Screenshot 2022-09-19 204420](https://user-images.githubusercontent.com/77114909/191054486-7ba7b810-9345-4220-a29f-4ff9f2c23303.jpg)
 
 ## Process
