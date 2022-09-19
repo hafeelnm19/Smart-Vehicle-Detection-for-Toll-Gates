@@ -4,7 +4,7 @@
 ![Vehicle-Reidentification-1024x728](https://user-images.githubusercontent.com/77114909/190964595-d81dd946-781d-46ea-a6dc-f1a63faa4b63.jpg)
 
 
-==============================================================================================================================================================================================
+======================================================================================================================================================================
 
 
 # Application Overview
@@ -18,6 +18,7 @@ In this project, two cameras will be positioned both at the entrance and exit. T
 Due to this, the need to stop would be only on one occastion. Thus, the traffic  and the waiting time could be minimised.
 
 The classification of the vehicles would be performed primarily focusing only on their appearences, setting aside the detection using number plate recognition approach.
+
 ![vivotek-IB9387-LPR-4__09325 1562171672](https://user-images.githubusercontent.com/77114909/190961760-4cf5beaf-dc0b-442d-87f1-0771866d141d.jpg)![0_Speed-cameras-on-motorway](https://user-images.githubusercontent.com/77114909/190962672-816c5c12-14a1-4348-8bac-f7bde3151c09.jpg)
 ## How To Use
 
