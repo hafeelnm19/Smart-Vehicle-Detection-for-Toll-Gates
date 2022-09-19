@@ -4,7 +4,7 @@
 ![Vehicle-Reidentification-1024x728](https://user-images.githubusercontent.com/77114909/190964595-d81dd946-781d-46ea-a6dc-f1a63faa4b63.jpg)
 
 
-======================================================================================================================================================================
+=========================================================================================================================
 
 
 # Application Overview
@@ -20,55 +20,22 @@ Due to this, the need to stop would be only on one occastion. Thus, the traffic 
 The classification of the vehicles would be performed primarily focusing only on their appearences, setting aside the detection using number plate recognition approach.
 
 ![vivotek-IB9387-LPR-4__09325 1562171672](https://user-images.githubusercontent.com/77114909/190961760-4cf5beaf-dc0b-442d-87f1-0771866d141d.jpg)![0_Speed-cameras-on-motorway](https://user-images.githubusercontent.com/77114909/190962672-816c5c12-14a1-4348-8bac-f7bde3151c09.jpg)
-## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
-
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
-
-> **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
-
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-
-## Emailware
-
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
-
-## Credits
-
-This software uses the following open source packages:
-
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
 
 ## Related Works
 
+* [Image processing based vehicle detection and tracking method](https://ieeexplore.ieee.org/document/6868357)<br>
+  P. K. Bhaskar and S. -P. Yong, "Image processing based vehicle detection and tracking method," 2014 International Conference on Computer and Information Sciences (ICCOINS), 2014, pp. 1-5, doi: 10.1109/ICCOINS.2014.6868357.
+  
 * [vehicle detection and counting system](https://rdcu.be/cVSWT)<br>
   Song, H., Liang, H., Li, H. et al. Vision-based vehicle detection and counting system using deep learning in highway scenes. Eur. Transp. Res. Rev. 11, 51 (2019). https://doi.org/10.1186/s12544-019-0390-4
  
 * [Car Reidentification System using Image Processing](https://www.researchgate.net/publication/258222322_Car_Reidentification_System_using_Image_Processing)<br>
   Bligny, Timothee. (2013). Car Reidentification System using Image Processing. 
+
+* [Vehicle Detection Based on Color and Edge Information](https://www.researchgate.net/publication/221472002_Vehicle_Detection_Based_on_Color_and_Edge_Information)<br>
+  Gao, Lei & Li, Chao & Fang, Ting & Xiong, Zhang. (2008). Vehicle Detection Based on Color and Edge Information. 142-150. 10.1007/978-3-540-69812-8_14.  
+
+
 
 ## Support
 
