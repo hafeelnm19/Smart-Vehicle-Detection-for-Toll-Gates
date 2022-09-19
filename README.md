@@ -62,9 +62,13 @@ This software uses the following open source packages:
 - Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
 - [highlight.js](https://highlightjs.org/)
 
-## Related
+## Related Works
 
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
+* [vehicle detection and counting system](https://rdcu.be/cVSWT)<br>
+  Song, H., Liang, H., Li, H. et al. Vision-based vehicle detection and counting system using deep learning in highway scenes. Eur. Transp. Res. Rev. 11, 51 (2019). https://doi.org/10.1186/s12544-019-0390-4
+ 
+* [Car Reidentification System using Image Processing](https://www.researchgate.net/publication/258222322_Car_Reidentification_System_using_Image_Processing)<br>
+  Bligny, Timothee. (2013). Car Reidentification System using Image Processing. 
 
 ## Support
 
