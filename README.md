@@ -20,6 +20,8 @@ Due to this, the need to stop would be only on one occastion. Thus, the traffic 
 
 The classification of the vehicles would be performed primarily focusing only on their appearences, setting aside the detection using number plate recognition approach.
 
+The entrance cameras will capture videos . The vehicles in the captured video will be classified using image processing models. The microcontroller will send datas to the database . The exit cameras will capture videos.The vehicles in the captured video will be classified using image processing models.The matching algorithm will re-identify the vehicles.
+
 ![vivotek-IB9387-LPR-4__09325 1562171672](https://user-images.githubusercontent.com/77114909/190961760-4cf5beaf-dc0b-442d-87f1-0771866d141d.jpg)![0_Speed-cameras-on-motorway](https://user-images.githubusercontent.com/77114909/190962672-816c5c12-14a1-4348-8bac-f7bde3151c09.jpg)
 
 ## Related Works
