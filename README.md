@@ -49,7 +49,7 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 
 ## Tools
 * Cameras
-* Micro Controllers
+* Node MCU
 ## Visualization
 * Visualization of the data from the database using React
 
