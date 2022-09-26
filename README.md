@@ -49,28 +49,28 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 
 ## Methodologies
 - IDEA => 01
- ### Object Detection 
- -- Deep Learning
- * Collect required training data sets.
- * To use our deep neural network to identify the car in the image. With the training data we received, we should train our specified neural network.
- * Now,our neural network is able to identify the vehicle existence in the images.
+ ###  Object Detection 
+  -- Deep Learning
+  * Collect required training data sets.
+  * To use our deep neural network to identify the car in the image. With the training data we received, we should train our specified neural network.
+  * Now,our neural network is able to identify the vehicle existence in the images.
   <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.skyfilabs.com%2Fproject-ideas%2Fcar-model-recogintion-using-image-processing&psig=AOvVaw3vjD0MXTzgD9Lq_hI5lQ5v&ust=1664301992530000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDnvZ6Gs_oCFQAAAAAdAAAAABAD" />
+  <img src="https://assets.skyfilabs.com/images/blog/car-model-recogintion-using-image-processing.webp" />
 </p>
  
  
 
-### Colour Detection
- -- Taking the pixel value that has maximum occurence inside the bounding box
+ ### Colour Detection
+  -- Taking the pixel value that has maximum occurence inside the bounding box
  
-### Vehicle Type
- * Convolutional Neural Network
- -- Use Transfer Learning in Existing Networks for vehicle type detection
+ ### Vehicle Type
+  * Convolutional Neural Network
+  -- Use Transfer Learning in Existing Networks for vehicle type detection
 
-### Vehicle Model
+ ### Vehicle Model
 
 
-- IDEA => 02
+### IDEA => 02
 - 
  
    
