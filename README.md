@@ -47,22 +47,18 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 ## Process
 ![Screenshot 2022-09-19 122416](https://user-images.githubusercontent.com/77114909/190963962-f4e19ca4-7dec-4b54-9f59-79ab4b68b864.jpg)
 
-##Methodologies
+## Methodologies
 
-*Object Detection 
-
- --Deep Learning
+* Object Detection 
+ -- Deep Learning
  
 
-*Colour Detection
-
- --Taking the pixel value that has maximum occurence inside the bounding box
+* Colour Detection
+ -- Taking the pixel value that has maximum occurence inside the bounding box
  
-*Vehicle Type
-
- *Convolutional Neural Network
- 
- --Use Transfer Learning in Existing Networks for vehicle type detection
+* Vehicle Type
+ * Convolutional Neural Network
+ -- Use Transfer Learning in Existing Networks for vehicle type detection
 
 *Vehicle Model
  *
