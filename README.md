@@ -51,6 +51,10 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 
 * Object Detection 
  -- Deep Learning
+ * Collect required training data sets.
+ * To use our deep neural network to identify the car in the image. With the training data we received, we should train our specified neural network.
+ * Now,our neural network is able to identify the vehicle existence in the images.
+ *
  
 
 * Colour Detection
@@ -61,7 +65,7 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
  -- Use Transfer Learning in Existing Networks for vehicle type detection
 
 *Vehicle Model
- *
+ * 
  
    
 
