@@ -84,6 +84,7 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 * Our output is the point with the lowest euclidian.
 * 
  ![Overall-System-for-Vehicle-Make-Model-Identification](https://user-images.githubusercontent.com/77114909/192431179-6edb9ac7-7cf1-40e8-923b-a5925f3803b2.png)
+![Graph-of-feature-vectors-extracted-at-various-levels-of-decomposition-using-reverse](https://user-images.githubusercontent.com/77114909/192432480-ed5cb659-a573-4bd6-89c4-ae2db5cdce57.png)
 
    
 
