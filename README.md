@@ -71,7 +71,7 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 ## Methodologies
 ### IDEA => 01
  ###  Object Detection 
-  -- Deep Learning
+  - Deep Learning
   * Collect required training data sets.
   * To use our deep neural network to identify the car in the image. With the training data we received, we should train our specified neural network.
   * Now,our neural network is able to identify the vehicle existence in the images.
@@ -82,11 +82,11 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
  
 
  ### Colour Detection
-  -- Taking the pixel value that has maximum occurence inside the bounding box
+  - Taking the pixel value that has maximum occurence inside the bounding box
  
  ### Vehicle Type
   * Convolutional Neural Network
-  -- Use Transfer Learning in Existing Networks for vehicle type detection
+  - Use Transfer Learning in Existing Networks for vehicle type detection
 
  ### Vehicle Model
 * After collecting datasets,we can mark and draw bounding box using LabelMe software.
