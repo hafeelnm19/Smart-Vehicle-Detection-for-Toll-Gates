@@ -47,6 +47,27 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 ## Process
 ![Screenshot 2022-09-19 122416](https://user-images.githubusercontent.com/77114909/190963962-f4e19ca4-7dec-4b54-9f59-79ab4b68b864.jpg)
 
+
+
+
+## Tools
+* Cameras
+* Node MCU
+## Visualization
+* Visualization of the data from the database using React
+
+![Screenshot 2022-09-19 212441](https://user-images.githubusercontent.com/77114909/191060384-34bd1299-b034-4346-a610-31185e7da523.jpg)
+
+## Feedback
+* The Feedbacks from Project Evaluators
+
+| Identified Problems    | Solutions     | 
+| ---------------------- | ------------- | 
+| Different quality of image if different Cameras are used.| Use the same camera with the same type of white balance, same quality, same lens       | 
+| The entrance cameras detect at evening and exit cameras detect at night                  | Detection of vehicle considering the lightintensity of the surrounding
+| Difference in the speed of the vehicle at entrance and exit    | build speed barrier system at the video capturing point of both entrances    | 
+| Difficulty in obtaining datasets for all 5 or more <br> specifications like color, dimension, model, <br> vehicle type, defects, other unique <br> characteristics. Thus, difficulty in classification of the vehicles.    |Reduction of specifications. <br> Focus on the more important ones only      |
+
 ## Methodologies
 - IDEA => 01
  ###  Object Detection 
@@ -91,28 +112,3 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 
 
 
-
-
-
-
-
-
-   
-
-## Tools
-* Cameras
-* Node MCU
-## Visualization
-* Visualization of the data from the database using React
-
-![Screenshot 2022-09-19 212441](https://user-images.githubusercontent.com/77114909/191060384-34bd1299-b034-4346-a610-31185e7da523.jpg)
-
-## Feedback
-* The Feedbacks from Project Evaluators
-
-| Identified Problems    | Solutions     | 
-| ---------------------- | ------------- | 
-| Different quality of image if different Cameras are used.| Use the same camera with the same type of white balance, same quality, same lens       | 
-| The entrance cameras detect at evening and exit cameras detect at night                  | Detection of vehicle considering the lightintensity of the surrounding
-| Difference in the speed of the vehicle at entrance and exit    | build speed barrier system at the video capturing point of both entrances    | 
-| Difficulty in obtaining datasets for all 5 or more <br> specifications like color, dimension, model, <br> vehicle type, defects, other unique <br> characteristics. Thus, difficulty in classification of the vehicles.    |Reduction of specifications. <br> Focus on the more important ones only      |
