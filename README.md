@@ -75,9 +75,16 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 <p align="center">
   <img width="50%" height="auto" src="https://fiverr-res.cloudinary.com/videos/so_0.259625,t_main1,q_auto,f_auto/sxf4nvsqtkoajoccbtfk/annotate-and-your-ai-training-data-with-excellent-accuracy.png" />
 </p>
+
 ### IDEA => 02
-- 
- 
+* We will feed the footage into the Convolutional neural network model after receiving video input from the entry camera.
+* The CNN model will provide a Feature vector, which is a matrix representation of each vehicle.
+* The model is then trained, and feature vectors are utilized to generate a graph.
+* Then we'll feed the video output that was captured by output to retrieve the feature vector, and we'll compare the output feature vector to the trained feature vector using the Euclidian distance.
+* Our output is the point with the lowest euclidian.
+* 
+ ![Overall-System-for-Vehicle-Make-Model-Identification](https://user-images.githubusercontent.com/77114909/192431179-6edb9ac7-7cf1-40e8-923b-a5925f3803b2.png)
+
    
 
 ## Tools
