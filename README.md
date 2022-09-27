@@ -55,7 +55,7 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
   * To use our deep neural network to identify the car in the image. With the training data we received, we should train our specified neural network.
   * Now,our neural network is able to identify the vehicle existence in the images.
   <p align="center">
-  <img src="https://assets.skyfilabs.com/images/blog/car-model-recogintion-using-image-processing.webp" />
+  <img width ="50%" height ="auto" src="https://assets.skyfilabs.com/images/blog/car-model-recogintion-using-image-processing.webp" />
 </p>
  
  
