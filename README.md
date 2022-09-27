@@ -68,8 +68,13 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
   -- Use Transfer Learning in Existing Networks for vehicle type detection
 
  ### Vehicle Model
+* After collecting datasets,we can mark and draw bounding box using LabelMe software.
+* Then train the datasets with respect to model of the vehicle.
+* It will predict the correct model for our input image.
 
-
+<p align="center">
+  <img src="https://fiverr-res.cloudinary.com/videos/so_0.259625,t_main1,q_auto,f_auto/sxf4nvsqtkoajoccbtfk/annotate-and-your-ai-training-data-with-excellent-accuracy.png" />
+</p>
 ### IDEA => 02
 - 
  
