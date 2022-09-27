@@ -69,7 +69,7 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 | Difficulty in obtaining datasets for all 5 or more <br> specifications like color, dimension, model, <br> vehicle type, defects, other unique <br> characteristics. Thus, difficulty in classification of the vehicles.    |Reduction of specifications. <br> Focus on the more important ones only      |
 
 ## Methodologies
-- IDEA => 01
+### IDEA => 01
  ###  Object Detection 
   -- Deep Learning
   * Collect required training data sets.
