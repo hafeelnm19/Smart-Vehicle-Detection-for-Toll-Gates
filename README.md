@@ -73,7 +73,7 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 * It will predict the correct model for our input image.
 
 <p align="center">
-  <img src="https://fiverr-res.cloudinary.com/videos/so_0.259625,t_main1,q_auto,f_auto/sxf4nvsqtkoajoccbtfk/annotate-and-your-ai-training-data-with-excellent-accuracy.png" />
+  <img width="50%" height="auto" src="https://fiverr-res.cloudinary.com/videos/so_0.259625,t_main1,q_auto,f_auto/sxf4nvsqtkoajoccbtfk/annotate-and-your-ai-training-data-with-excellent-accuracy.png" />
 </p>
 ### IDEA => 02
 - 
