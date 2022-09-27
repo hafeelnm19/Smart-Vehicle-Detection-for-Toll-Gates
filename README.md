@@ -83,9 +83,12 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 * Then we'll feed the video output that was captured by output to retrieve the feature vector, and we'll compare the output feature vector to the trained feature vector using the Euclidian distance.
 * Our output is the point with the lowest euclidian.
 
+#### Train the model
+* A vehicle's input and output feature vectors should be the same. However, in practice, this is not achievable. As a result, the Euclidian distance will be greater than zero. We may use mean square error and lower the loss function to lessen the distance between the feature vectors.Therefore,the accuracy will be high.
 
-![JERsKXkW4T-screen-shot-2016-05-05-at-123118-pm](https://user-images.githubusercontent.com/77114909/192433585-b2a8ab33-b289-4f39-a151-18c17fca4003.png)
-![Overall-System-for-Vehicle-Make-Model-Identification](https://user-images.githubusercontent.com/77114909/192433896-8632fc90-058d-47c7-98ab-be42d1eaea3b.png)
+![JERsKXkW4T-screen-shot-2016-05-05-at-123118-pm](https://user-images.githubusercontent.com/77114909/192434441-d6731f85-c2ab-44e0-9267-ac26621f26d4.png)
+![Overall-System-for-Vehicle-Make-Model-Identification](https://user-images.githubusercontent.com/77114909/192434526-1e3b9dbd-9022-417b-b371-70e23cb4de73.png)
+
 
 
 
