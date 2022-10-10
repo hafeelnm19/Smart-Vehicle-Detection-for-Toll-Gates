@@ -107,8 +107,15 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 #### Train the model
 * A vehicle's input and output feature vectors should be the same. However, in practice, this is not achievable. As a result, the Euclidian distance will be greater than zero. We may use mean square error and lower the loss function to lessen the distance between the feature vectors.Therefore,the accuracy will be high.
 
+### Feature Extraction
+The process of turning raw data into numerical features that can be processed while keeping the information in the original data set is known as feature extraction. Compared to using machine learning on the raw data directly, it produces better results.
+
+* Extract Gray Scale Pixel Values
+* Extract Mean Pixel Values
+* Extract Edge Features
+* 
+
 ![JERsKXkW4T-screen-shot-2016-05-05-at-123118-pm](https://user-images.githubusercontent.com/77114909/192434441-d6731f85-c2ab-44e0-9267-ac26621f26d4.png)
 ![Overall-System-for-Vehicle-Make-Model-Identification](https://user-images.githubusercontent.com/77114909/192434526-1e3b9dbd-9022-417b-b371-70e23cb4de73.png)
-
 
 
