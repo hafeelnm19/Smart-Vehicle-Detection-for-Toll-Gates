@@ -125,12 +125,11 @@ The process of turning raw data into numerical features that can be processed wh
   * There are many algorithms to find Edge features
 ![11](https://user-images.githubusercontent.com/77114909/195009764-4ca01465-1197-474c-bbea-18b2ae060b6d.png)
 
-   *     Sobel
+   #####     Sobel
    *     ![Screenshot 2022-10-11 113504](https://user-images.githubusercontent.com/77114909/195010143-e174f52e-e5b5-4918-a0e8-768ffb8aa7d5.jpg)
 
 
-
-   * canny
+##### canny
 ![image](https://user-images.githubusercontent.com/77114909/195013727-14c3f3e7-d599-451c-9f75-395cd5776985.png)
 
 
