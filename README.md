@@ -129,7 +129,8 @@ The process of turning raw data into numerical features that can be processed wh
    *     ![Screenshot 2022-10-11 113504](https://user-images.githubusercontent.com/77114909/195010143-e174f52e-e5b5-4918-a0e8-768ffb8aa7d5.jpg)
 
 
-<p style="text-align:center">Canny Algorithm</p>
+<center">Canny Algorithm</center>
+
 ![image](https://user-images.githubusercontent.com/77114909/195013727-14c3f3e7-d599-451c-9f75-395cd5776985.png)
 
 
