@@ -114,24 +114,25 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 ### Feature Extraction
 The process of turning raw data into numerical features that can be processed while keeping the information in the original data set is known as feature extraction. Compared to using machine learning on the raw data directly, it produces better results.
 
-* Extract Gray Scale Pixel Values
+#### Extract Gray Scale Pixel Values
 
 
-* Extract Mean Pixel Values
+#### Extract Mean Pixel Values
 
 
-* Extract Edge Features
--- Edge detection is a method of image processing that locates the edges of objects in pictures. It operates by looking for changes in brightness. In fields like image processing, computer vision, and machine vision, edge detection is used for image segmentation and data extraction.
--- There are many algorithms to find Edge features
+#### Extract Edge Features
+ * Edge detection is a method of image processing that locates the edges of objects in pictures. It operates by looking for changes in brightness. In fields like image processing, computer vision, and machine vision, edge detection is used for image segmentation and data extraction.
+  * There are many algorithms to find Edge features
 ![11](https://user-images.githubusercontent.com/77114909/195009764-4ca01465-1197-474c-bbea-18b2ae060b6d.png)
 
-   * Sobel
-  ![Screenshot 2022-10-11 113504](https://user-images.githubusercontent.com/77114909/195010143-e174f52e-e5b5-4918-a0e8-768ffb8aa7d5.jpg)
+   *     Sobel
+   *     ![Screenshot 2022-10-11 113504](https://user-images.githubusercontent.com/77114909/195010143-e174f52e-e5b5-4918-a0e8-768ffb8aa7d5.jpg)
 
 
 
    * canny
-![Screenshot 2022-10-11 113514](https://user-images.githubusercontent.com/77114909/195010003-e2b8e1b1-dc39-4a19-bdac-08430c65cf80.jpg)
+![image](https://user-images.githubusercontent.com/77114909/195013727-14c3f3e7-d599-451c-9f75-395cd5776985.png)
+
 
    
 * Extract 
