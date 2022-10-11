@@ -107,15 +107,29 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 #### Train the model
 * A vehicle's input and output feature vectors should be the same. However, in practice, this is not achievable. As a result, the Euclidian distance will be greater than zero. We may use mean square error and lower the loss function to lessen the distance between the feature vectors.Therefore,the accuracy will be high.
 
-### Feature Extraction
-The process of turning raw data into numerical features that can be processed while keeping the information in the original data set is known as feature extraction. Compared to using machine learning on the raw data directly, it produces better results.
-
-* Extract Gray Scale Pixel Values
-* Extract Mean Pixel Values
-* Extract Edge Features
-* 
 
 ![JERsKXkW4T-screen-shot-2016-05-05-at-123118-pm](https://user-images.githubusercontent.com/77114909/192434441-d6731f85-c2ab-44e0-9267-ac26621f26d4.png)
 ![Overall-System-for-Vehicle-Make-Model-Identification](https://user-images.githubusercontent.com/77114909/192434526-1e3b9dbd-9022-417b-b371-70e23cb4de73.png)
 
+### Feature Extraction
+The process of turning raw data into numerical features that can be processed while keeping the information in the original data set is known as feature extraction. Compared to using machine learning on the raw data directly, it produces better results.
+
+* Extract Gray Scale Pixel Values
+
+
+* Extract Mean Pixel Values
+
+
+* Extract Edge Features
+-- Edge detection is a method of image processing that locates the edges of objects in pictures. It operates by looking for changes in brightness. In fields like image processing, computer vision, and machine vision, edge detection is used for image segmentation and data extraction.
+-- There are many algorithms to find Edge features
+![11](https://user-images.githubusercontent.com/77114909/195009764-4ca01465-1197-474c-bbea-18b2ae060b6d.png)
+
+   * Sobel
+   ![Screenshot 2022-10-11 113504](https://user-images.githubusercontent.com/77114909/195009708-2b5facaf-84d8-463d-9c91-2a246951ab49.jpg)
+
+   * canny
+   ![Screenshot 2022-10-11 113514](https://user-images.githubusercontent.com/77114909/195009627-c072ea0a-3646-43b3-b368-a3a3d8852f38.jpg)
+   
+* Extract 
 
