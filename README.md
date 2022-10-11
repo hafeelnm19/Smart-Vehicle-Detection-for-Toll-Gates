@@ -136,5 +136,10 @@ The process of turning raw data into numerical features that can be processed wh
 
 
    
-* Extract 
+#### * Extract features using Deep learning model
+The imagenet dataset's pretrained weights are loaded into the VGG16 model. A series of convolutional layers are followed by one or more dense (or fully connected) layers in the VGG16 model.
+
+![Screenshot 2022-10-11 135741](https://user-images.githubusercontent.com/77114909/195039191-d73331a7-c106-41a0-8b13-de5f5cd2c208.jpg)
+
+ 
 
