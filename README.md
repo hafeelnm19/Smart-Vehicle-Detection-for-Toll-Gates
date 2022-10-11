@@ -126,10 +126,13 @@ The process of turning raw data into numerical features that can be processed wh
 ![11](https://user-images.githubusercontent.com/77114909/195009764-4ca01465-1197-474c-bbea-18b2ae060b6d.png)
 
    * Sobel
-   ![Screenshot 2022-10-11 113504](https://user-images.githubusercontent.com/77114909/195009708-2b5facaf-84d8-463d-9c91-2a246951ab49.jpg)
+  ![Screenshot 2022-10-11 113504](https://user-images.githubusercontent.com/77114909/195010143-e174f52e-e5b5-4918-a0e8-768ffb8aa7d5.jpg)
+
+
 
    * canny
-   ![Screenshot 2022-10-11 113514](https://user-images.githubusercontent.com/77114909/195009627-c072ea0a-3646-43b3-b368-a3a3d8852f38.jpg)
+![Screenshot 2022-10-11 113514](https://user-images.githubusercontent.com/77114909/195010003-e2b8e1b1-dc39-4a19-bdac-08430c65cf80.jpg)
+
    
 * Extract 
 
