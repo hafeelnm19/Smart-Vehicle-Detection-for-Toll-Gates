@@ -123,7 +123,6 @@ The process of turning raw data into numerical features that can be processed wh
 #### Extract Edge Features
  * Edge detection is a method of image processing that locates the edges of objects in pictures. It operates by looking for changes in brightness. In fields like image processing, computer vision, and machine vision, edge detection is used for image segmentation and data extraction.
   * There are many algorithms to find Edge features
-![11](https://user-images.githubusercontent.com/77114909/195009764-4ca01465-1197-474c-bbea-18b2ae060b6d.png)
 
 <center> Sobel Algorithm</center>
 
