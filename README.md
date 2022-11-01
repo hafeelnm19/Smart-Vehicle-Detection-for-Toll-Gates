@@ -107,8 +107,39 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 #### Train the model
 * A vehicle's input and output feature vectors should be the same. However, in practice, this is not achievable. As a result, the Euclidian distance will be greater than zero. We may use mean square error and lower the loss function to lessen the distance between the feature vectors.Therefore,the accuracy will be high.
 
+
 ![JERsKXkW4T-screen-shot-2016-05-05-at-123118-pm](https://user-images.githubusercontent.com/77114909/192434441-d6731f85-c2ab-44e0-9267-ac26621f26d4.png)
 ![Overall-System-for-Vehicle-Make-Model-Identification](https://user-images.githubusercontent.com/77114909/192434526-1e3b9dbd-9022-417b-b371-70e23cb4de73.png)
 
+## Feature Extraction
+The process of turning raw data into numerical features that can be processed while keeping the information in the original data set is known as feature extraction. Compared to using machine learning on the raw data directly, it produces better results.
 
+#### * Extract Gray Scale Pixel Values
+
+
+#### *  Extract Mean Pixel Values
+
+
+#### * Extract Edge Features
+ * Edge detection is a method of image processing that locates the edges of objects in pictures. It operates by looking for changes in brightness. In fields like image processing, computer vision, and machine vision, edge detection is used for image segmentation and data extraction.
+  * There are many algorithms to find Edge features
+
+<center> Sobel Algorithm</center>
+
+![image](https://user-images.githubusercontent.com/77114909/195025040-d3938d8b-fe49-4fde-a558-b2fa40d24be2.png)
+
+
+
+<center> Canny Algorithm</center>
+
+![image](https://user-images.githubusercontent.com/77114909/195013727-14c3f3e7-d599-451c-9f75-395cd5776985.png)
+
+
+   
+#### * Extract features using Deep learning model
+The imagenet dataset's pretrained weights are loaded into the VGG16 model. A series of convolutional layers are followed by one or more dense (or fully connected) layers in the VGG16 model.
+
+![Screenshot 2022-10-11 135741](https://user-images.githubusercontent.com/77114909/195039191-d73331a7-c106-41a0-8b13-de5f5cd2c208.jpg)
+
+ 
 
