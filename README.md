@@ -45,7 +45,8 @@ The entrance cameras will capture videos . The vehicles in the captured video wi
 ![Screenshot 2022-09-19 204420](https://user-images.githubusercontent.com/77114909/191054486-7ba7b810-9345-4220-a29f-4ff9f2c23303.jpg)
 
 ## Process
-![Screenshot 2022-09-19 122416](https://user-images.githubusercontent.com/77114909/190963962-f4e19ca4-7dec-4b54-9f59-79ab4b68b864.jpg)
+![image](https://user-images.githubusercontent.com/77114909/219108955-945b3169-6cdc-4000-b8fb-a2a076b96d26.png)
+
 
 
 
